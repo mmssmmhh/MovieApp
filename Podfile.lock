@@ -1,0 +1,20 @@
+PODS:
+  - Cosmos (16.0.0)
+  - Kingfisher (4.8.1)
+
+DEPENDENCIES:
+  - Cosmos
+  - Kingfisher
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cosmos
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Cosmos: 7bcee0fa858a9355a214f2a181be5dffcee42c81
+  Kingfisher: 868c1149679a7ab6869be118faa9b5aed154aaf0
+
+PODFILE CHECKSUM: 0bab7a506d8f053a86496e043601d8f60dfbea74
+
+COCOAPODS: 1.5.3
